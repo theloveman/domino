@@ -1,1 +1,1 @@
-<a href ="/public/index.html">click</a>
+<a href ="service.js">click</a>
